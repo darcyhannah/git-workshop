@@ -22,5 +22,12 @@ Terceira modificação
 =======
 Terceira modificação
 
+<<<<<<< HEAD
 Quarta alteração
 >>>>>>> 03b6e41 (quarta alteração)
+||||||| parent of c35c236 (quinta alteração)
+Quarta alteração
+=======
+Quarta alteração
+Quinta alteração
+>>>>>>> c35c236 (quinta alteração)
